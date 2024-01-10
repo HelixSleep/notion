@@ -1,6 +1,6 @@
 <?php
 
-namespace HelixSleep\Notion;
+namespace Helix\Notion;
 
 class Notion
 {

@@ -3,6 +3,7 @@
     "description": "SDK for Notion API",
     "keywords": [
         "HelixSleep",
+        "Helix",
         "notion"
     ],
     "homepage": "https://github.com/HelixSleep/notion",
@@ -17,12 +18,12 @@
     },
     "autoload": {
         "psr-4": {
-            "HelixSleep\\Notion\\": "src"
+            "Helix\\Notion\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "HelixSleep\\Notion\\Tests\\": "tests"
+            "Helix\\Notion\\Tests\\": "tests"
         }
     },
     "scripts": {
